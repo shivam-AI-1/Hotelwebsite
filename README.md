@@ -6,6 +6,8 @@ A modern, responsive hotel booking website built with vanilla HTML, CSS, and Jav
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+**[🔗 View Live Site](https://hotelwebsite1234.netlify.app/)**
+
 ## ✨ Features
 
 - **Responsive Design**: Fully responsive layout that works seamlessly on desktop, tablet, and mobile devices
@@ -175,6 +177,7 @@ For inquiries, please reach out through the contact information provided in the 
 ---
 
 **Built with ❤️ using HTML, CSS, and JavaScript**
+
 
 
 
